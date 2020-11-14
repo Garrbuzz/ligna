@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/favicon.ico">
+	<link rel="stylesheet" href="bootstrap.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	  
+    <title>Відправка форми на пошту</title>
+
+    <style>
+    	form {
+    		background-color: darkgreen;
+    		padding: 20px;
+    		margin: 20px;
+    	}
+		legend{
+			color: white;
+		}
+		label{
+			color: white;
+		}
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+
+      <div class="row">
+      	<div class="offset-sm-1 col-sm-10 offset-md-2 col-md-8 offset-lg-3 col-lg-6">
+      		<form action="Script2.php" method="POST">
+      			<legend>Вибачте <br>
+					Інтернет-магазин знаходиться на модернізації <br> 
+					Пропонуємо оформити вам замовлення зворотнього дзвінка стосовно покупки</legend>
+
+      			<div class="form-group">
+      				<label for="">Введіть ваше ім'я</label>
+      				<input type="text" class="form-control" id="" name="user_name" placeholder="Петро Петрович">
+      			</div>
+      		
+      			<div class="form-group">
+      				<label for="">Введіть ваш номер</label>
+      				<input type="text" class="form-control" id="" name="user_phone" placeholder="+38 (099) 99 99 999">
+      			</div>
+				
+				<div class="form-group">
+      				<label for="">Який товар вас цікавить?</label>
+      				<input type="text" class="form-control" id="" name="product" placeholder="Дошка Сокира арт. O5">
+      			</div>
+      		
+      			<button type="submit" class="btn btn-light">Відправити форму</button>
+      		</form>
+      	</div>
+      </div>
+
+    </div>
+	  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+	

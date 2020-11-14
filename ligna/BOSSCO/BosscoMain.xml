@@ -1,0 +1,924 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2020-04-28 22:49">
+  <shop>
+    <name>Bossco</name>
+    <company>Bossco inc.</company>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="BR" rz_id="4626961">Разделочные доски</category>
+      <category id="BRO" rz_id="4626961">Разделочные доски с отверстием</category>
+      <category id="BRK" rz_id="4626961">Разделочные доски с канавкой</category>
+      <category id="BT" rz_id="4626961">Торцевые доски</category>
+      <category id="BP" rz_id="4626961">Подарочные доски</category>
+      <category id="BI" rz_id="4626961">Подставки деревянные IT - line</category>
+      <category id="BC" rz_id="4626961">Комплекты досок</category>
+    </categories>
+
+    <offers>
+
+      <offer id="BR1" available="true">
+        <price>130</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR1.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Круглая разделочная доска Bossco диаметр 30 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска круглой формы - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Диаметр : 30 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Круглая</param>
+        <param name="Размер">Диаметр 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">800 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR1</param>
+      </offer>
+
+      <offer id="BRO1" available="true">
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRO</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRO1.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Круглая разделочная доска с отверстием Bossco диаметр 30 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска круглой формы с отверстием - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Диаметр : 30 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Круглая</param>
+        <param name="Размер">Диаметр 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">800 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRO1</param>
+      </offer>
+
+      <offer id="BRK1" available="true">
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRK</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRK1.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Круглая разделочная доска с канавкой Bossco диаметр 30 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска круглой формы с канавкой - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Диаметр : 30 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Круглая</param>
+        <param name="Размер">Диаметр 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">800 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRK1</param>
+      </offer>
+
+      <offer id="BR2" available="true">
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Круглая разделочная доска Bossco диаметр 27 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска круглой формы - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Диаметр : 27 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Круглая</param>
+        <param name="Размер">Диаметр 27 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR2</param>
+      </offer>
+
+      <offer id="BRO2" available="true">
+        <price>135</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRO</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRO2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Круглая разделочная доска с отверстием Bossco диаметр 27 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска круглой формы с отверстием - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Диаметр : 27 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Круглая</param>
+        <param name="Размер">Диаметр 27 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRO2</param>
+      </offer>
+
+      <offer id="BRK2" available="true">
+        <price>135</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRK</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRK2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Круглая разделочная доска с канавкой Bossco диаметр 27 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска круглой формы с канавкой - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Диаметр : 27 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Круглая</param>
+        <param name="Размер">Диаметр 27 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRK2</param>
+      </offer>
+
+      <offer id="BR3" available="true">
+        <price>105</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR3.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная разделочная доска Bossco размер 30 х 20 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 30 х 20 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">30 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR3</param>
+      </offer>
+
+      <offer id="BRO3" available="true">
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRO</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRO3.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная разделочная доска с отверствием Bossco размер 30 х 20 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы с отверствием - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 30 х 20 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">30 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRO3</param>
+      </offer>
+
+      <offer id="BRK3" available="true">
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRK</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRK3.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная разделочная доска с канавкой Bossco размер 30 х 20 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы с канавкой - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 30 х 20 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">30 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRK3</param>
+      </offer>
+
+      <offer id="BR4" available="true">
+        <price>90</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR4.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Квадратная разделочная доска Bossco размер 20 х 20 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска квадратной формы - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 20 х 20 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная</param>
+        <param name="Размер">20 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">500 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR4</param>
+      </offer>
+
+      <offer id="BRK4" available="true">
+        <price>105</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRK</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRK4.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Квадратная разделочная доска с канавкой Bossco размер 20 х 20 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска квадратной формы с канавкой - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 20 х 20 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная</param>
+        <param name="Размер">20 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">500 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRK4</param>
+      </offer>
+
+      <offer id="BR5" available="true">
+        <price>130</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR5.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная разделочная доска Bossco размер 35 х 25 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 35 х 25 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">35 х 25 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1000 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR5</param>
+      </offer>
+
+      <offer id="BRO5" available="true">
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRO</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRO5.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная разделочная доска с отверствием Bossco размер 35 х 25 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы с отверствием - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 35 х 25 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">35 х 25 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1000 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRO5</param>
+      </offer>
+
+      <offer id="BR6" available="true">
+        <price>165</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR6.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Квадратная разделочная доска Bossco размер 30 х 30 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска квадратной формы - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 30 х 30 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная</param>
+        <param name="Размер">30 х 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1000 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR6</param>
+      </offer>
+
+      <offer id="BRO6" available="true">
+        <price>180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRO</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRO6.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Квадратная разделочная доска с отверствием Bossco размер 30 х 30 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска квадратной формы с отверствием - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 30 х 30 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная</param>
+        <param name="Размер">30 х 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1000 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRO6</param>
+      </offer>
+
+      <offer id="BR7" available="true">
+        <price>180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR7.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Разделочная доска с ручкой Bossco Амазон размер 40 х 20 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска оригинальной формы с ручкой - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 40 х 20 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Оригинальная</param>
+        <param name="Размер">40 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR7</param>
+      </offer>
+
+      <offer id="BR8" available="true">
+        <price>90</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR8.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Разделочная доска с ручкой Bossco Брускетта размер 35 х 13 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска оригинальной формы с ручкой - олицетворение лаконичности и функциональности. </p><p>Изготовлена из высококачественной ольхи. Размер : 35 х 13 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево ольха</param>
+        <param name="Форма">Оригинальная</param>
+        <param name="Размер">35 х 13 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">450 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR8</param>
+      </offer>
+
+      <offer id="BR9" available="true">
+        <price>180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR9.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Разделочная доска с ручкой Bossco Шашлык размер 40 х 20 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска оригинальной формы с канавкой - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 40 х 20 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Оригинальная</param>
+        <param name="Размер">40 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1000 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR9</param>
+      </offer>
+
+      <offer id="BR10" available="true">
+        <price>130</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BR</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BR10.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная разделочная доска Bossco размер 40 х 30 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 40 х 30 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">40 х 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1300 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BR10</param>
+      </offer>
+
+      <offer id="BRO10" available="true">
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BRO</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BRO10.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная разделочная доска с отверствием Bossco размер 40 х 30 см</name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы с отверствием - олицетворение лаконичности и функциональности. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 40 х 30 см.</p><p>Доски серии <b>Bossco Razdel</b> - это провереные временем изделия, что успели стать хитами.</p>]]>
+        </description>
+        <param name="Серия">Bossco Razdel</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">40 х 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1300 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BRO10</param>
+      </offer>
+
+      <offer id="BP1" available="true">
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BP</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BP1.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Прямоугольная подарочная разделочная доска Bossco 45x20 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы - это изысканость и лаконичность одновременно. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 45 x 20 см.</p><p>Доски серии <b>Bossco Present</b> - это интересные и нестандартные решения для подачи блюд.</p>]]>
+        </description>
+        <param name="Серия">Bossco Present</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">45 x 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1100 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BP1</param>
+      </offer>
+
+      <offer id="BP2" available="true">
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BP</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BP2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Подарочная разделочная доска Bossco Клён + орех 30x22 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольной формы <b>Bossco &quot Клён + орех &quot</b> - это неповторный внешний вид. </p><p>Изготовлена из комбинации клёна с орехом. Размер : 30 x 22 см.</p><p>Доски серии <b>Bossco Present</b> - это интересные и нестандартные решения для подачи блюд.</p>]]>
+        </description>
+        <param name="Серия">Bossco Present</param>
+        <param name="Материал">Дерево клён и орех</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">35 x 22 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BP2</param>
+      </offer>
+
+      <offer id="BP3" available="true">
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BP</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BP3.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Подарочная Разделочная доска Bossco Топор 35x22 см Дуб </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска оригинальной формы <b>Bossco &quot Топор &quot</b> отлично подходит для подачи мясных блюд. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 35 x 22 см.</p><p>Доски серии <b>Bossco Present</b> - это интересные и нестандартные решения для подачи блюд.</p>]]>
+        </description>
+        <param name="Серия">Bossco Present</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Оригинальная - топор</param>
+        <param name="Размер">35 x 22 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BP3</param>
+      </offer>
+
+      <offer id="BP4" available="true">
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BP</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BP4.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Подарочная разделочная доска Bossco Мяч диаметр 27 см Дуб </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска оригинальной формы <b>Bossco &quot Мяч &quot</b> для истинных любителей игры номер один. </p><p>Изготовлена из отборного дуба, экспортного качества. Диаметр : 27 см.</p><p>Доски серии <b>Bossco Present</b> - это интересные и нестандартные решения для подачи блюд.</p>]]>
+        </description>
+        <param name="Серия">Bossco Present</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Круглая</param>
+        <param name="Диаметр">27 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">700 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BP4</param>
+      </offer>
+
+      <offer id="BI1" available="true">
+        <price>64</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BI</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BI1.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Подставка под чашку деревянная Bossco 1 GB 10,24x10,24 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска квадратной формы <b>Bossco &quot 1 GB &quot</b> компактная и функциональная подставка под чашку. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 10,24 x 10,24 см.</p><p>Доски серии <b>Bossco IT</b> - созданы для настоящих профессионалов своего дела ценящих комфорт работы.</p>]]>
+        </description>
+        <param name="Серия">Bossco IT</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная</param>
+        <param name="Размер">10,24 x 10,24 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">150 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BI1</param>
+      </offer>
+
+      <offer id="BI2" available="true">
+        <price>96</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BI</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BI2.png</picture>
+        <picture>https://ligna.com.ua/BOSSCO/BI2-2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Подставка прямоугольная под чашку и снек деревянная Bossco 2 GB 20,48x10,24 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска прямоугольная формы <b>Bossco &quot 2 GB &quot</b> компактная и функциональная подставка под чашку и снек. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 20,48 x 10,24 см.</p><p>Доски серии <b>Bossco IT</b> - созданы для настоящих профессионалов своего дела ценящих комфорт работы.</p>]]>
+        </description>
+        <param name="Серия">Bossco IT</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">20,48 x 10,24 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">300 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BI2</param>
+      </offer>
+
+      <offer id="BI3" available="true">
+        <price>160</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BI</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BI3.png</picture>
+        <picture>https://ligna.com.ua/BOSSCO/BI3-2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>50</stock_quantity>
+        <name>Подставка квадратная под чашку и снек деревянная Bossco 4 GB 20,48x20,48 см </name>
+        <description>
+          <![CDATA[
+<p>Деревянная доска квадратной формы <b>Bossco &quot 2 GB &quot</b> полноценная и необычная замена фарворой посуде. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 20,48 x 20,48 см.</p><p>Доски серии <b>Bossco IT</b> - созданы для настоящих профессионалов своего дела ценящих комфорт работы.</p>]]>
+        </description>
+        <param name="Серия">Bossco IT</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная</param>
+        <param name="Размер">20,48 x 20,48 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">500 гр</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BI3</param>
+      </offer>
+
+      <offer id="BT1" available="true">
+        <price>1500</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BT</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BT1.png</picture>
+        <picture>https://ligna.com.ua/BOSSCO/BT1-2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Торцевая прямоугольная разделочная доска Bossco размер 60 х 45 см</name>
+        <description>
+          <![CDATA[
+<p>Торцевая доска прямоугольной формы - бескомпромиссная красота и надежность воедино. </p><p>Изготовлена из отборного дуба, экспортного качества. Размер : 60 х 45 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Torz</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная</param>
+        <param name="Размер">60 х 45 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">10 кг</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BT1</param>
+      </offer>
+
+      <offer id="BC1" available="true">
+        <price>200</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC1.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор 1 из двух разделочных деревянных досок Bossco размеры 30 х 20, 20 х 20 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect<b> - это серия наборов деревянных разделочных досок для комплексного решения всех возможных проблем и потребностей.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 30 х 20, 20 х 20 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная с канавкой и квадратная с канавкой</param>
+        <param name="Размеры">30 х 20 см, 20 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1200 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС1</param>
+      </offer>
+
+      <offer id="BC2" available="true">
+        <price>180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC2.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор 2 из двух разделочных деревянных досок Bossco размеры 30 х 20, 20 х 20 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect<b> - это серия наборов деревянных разделочных досок для комплексного решения всех возможных проблем и потребностей.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 30 х 20, 20 х 20 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная с канавкой и квадратная ровная</param>
+        <param name="Размеры">30 х 20 см, 20 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1200 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС2</param>
+      </offer>
+
+      <offer id="BC3" available="true">
+        <price>180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC3.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор 3 из двух разделочных деревянных досок Bossco размеры 30 х 20, 20 х 20 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect<b> - это серия наборов деревянных разделочных досок для комплексного решения всех возможных проблем и потребностей.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 30 х 20, 20 х 20 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная с отверстием и квадратная ровная</param>
+        <param name="Размеры">30 х 20 см, 20 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1200 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС3</param>
+      </offer>
+
+      <offer id="BC4" available="true">
+        <price>260</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC4.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор 4 из двух разделочных деревянных досок Bossco размеры 30 х 20, 30 х 30 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect<b> - это серия наборов деревянных разделочных досок для комплексного решения всех возможных проблем и потребностей.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 30 х 20, 30 х 30 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная с отверстием и квадратная с отверстием</param>
+        <param name="Размеры">30 х 20 см, 30 х 30 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1700 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС4</param>
+      </offer>
+
+      <offer id="BC5" available="true">
+        <price>330</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC5.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор 5 из трёх разделочных деревянных досок Bossco размеры 30 х 20, 30 х 30 см, 20 х 20 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect<b> - это серия наборов деревянных разделочных досок для комплексного решения всех возможных проблем и потребностей.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 30 х 20, 30 х 30 см, 20 х 20 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная с отверстием и квадратная с отверстием большая и квадратная ровная маленькая</param>
+        <param name="Размеры">30 х 20 см, 30 х 30 см, 20 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">2200 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС5</param>
+      </offer>
+
+      <offer id="BC6" available="true">
+        <price>235</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC6.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор 6 из двух разделочных деревянных досок Bossco размеры 35 х 25, 30 х 20 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect<b> - это серия наборов деревянных разделочных досок для комплексного решения всех возможных проблем и потребностей.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 35 х 25, 30 х 20 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная с отверстием и без</param>
+        <param name="Размеры">35 х 25 см, 30 х 20 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1700 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС6</param>
+      </offer>
+
+      <offer id="BC7" available="true">
+        <price>280</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC7.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор 7 из двух разделочных деревянных досок Bossco размеры 35 х 25 см, диаметр 27 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect<b> - это серия наборов деревянных разделочных досок для комплексного решения всех возможных проблем и потребностей.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 35 х 25 см, диаметр 27 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Прямоугольная с отверствием и круглая с отверстием</param>
+        <param name="Размеры">35 х 25 см, диаметр 27 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1700 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС7</param>
+      </offer>
+
+      <offer id="BC8" available="true">
+        <price>256</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC8.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор IT-1 из двух деревянных подставок Bossco размеры 20.48 х 20.48 см, 20.48 х 10.24 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect IT<b> - это серия наборов деревянных подставок для удобства работы настоящих профессионалов своего дела.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 20.48 х 20.48 см, 20.48 х 10.24 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная большая и прямоугольная</param>
+        <param name="Размеры">20.48 х 20.48 см, 20.48 х 10.24 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">800 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС8</param>
+      </offer>
+
+      <offer id="BC9" available="true">
+        <price>160</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC9.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор IT-2 из двух деревянных подставок Bossco размеры 10.24 х 10.24 см, 20.48 х 10.24 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect IT<b> - это серия наборов деревянных подставок для удобства работы настоящих профессионалов своего дела.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 10.24 х 10.24 см, 20.48 х 10.24 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная маленькая и прямоугольная</param>
+        <param name="Размеры">10.24 х 10.24 см, 20.48 х 10.24 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">450 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС9</param>
+      </offer>
+
+      <offer id="BC10" available="true">
+        <price>225</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC10.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор IT-3 из трёх деревянных подставок Bossco размеры 10.24 х 10.24 см две штуки, 20.48 х 10.24 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect IT<b> - это серия наборов деревянных подставок для удобства работы настоящих профессионалов своего дела.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 10.24 х 10.24 см две штуки, 20.48 х 10.24 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная маленькая и прямоугольная</param>
+        <param name="Размеры">10.24 х 10.24 см, 20.48 х 10.24 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">600 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС10</param>
+      </offer>
+
+      <offer id="BC11" available="true">
+        <price>320</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>BC</categoryId>
+        <picture>https://ligna.com.ua/BOSSCO/BC11.png</picture>
+        <vendor>Bossco</vendor>
+        <stock_quantity>25</stock_quantity>
+        <name>Набор IT-4 из трёх деревянных подставок Bossco размеры 10.24 х 10.24 см, 20.48 х 10.24 см, 20.48 х 20.48 см</name>
+        <description>
+          <![CDATA[
+<p><b>Bossco Complect IT<b> - это серия наборов деревянных подставок для удобства работы настоящих профессионалов своего дела.</p><p>Все изделия сделаны из отборного дуба, экспортного качества. Размеры : 10.24 х 10.24 см, 20.48 х 10.24 см, 20.48 х 20.48 см.</p>]]>
+        </description>
+        <param name="Серия">Bossco Complect</param>
+        <param name="Материал">Дерево дуб</param>
+        <param name="Форма">Квадратная маленькая и прямоугольная</param>
+        <param name="Размеры">10.24 х 10.24 см, 20.48 х 10.24 см, 20.48 х 20.48 см</param>
+        <param name="Толщина">2 см</param>
+        <param name="Вес">1200 г</param>
+        <param name="Цвет">Натуральное дерево</param>
+        <param name="Страна производитель товара">Украина</param>
+        <param name="Артикул">BС11</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
